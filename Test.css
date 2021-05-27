@@ -1,42 +1,22 @@
-body{
-    background: -webkit-linear-gradient(right, #00FF00, #000000, #00aa00);
-    background: -moz-linear-gradient(right, #00FF00, #000000, #00aa00);
-    background: -o-linear-gradient(right, #00FF00, #000000, #00aa00);
-    background: linear-gradient(to right, #00FF00, #000000, #00aa00);
-    color: #00FF00;
-}
- 
-h1{
-    color: #00eeff;
-    text-shadow:0 0 2px aqua;
+h1{	color: #4C4080;
     font-family: times new roman, arial;
-}
+	text-decoration: underline;}
  
-h2{
-    color: #000fff;
-    text-shadow:0 0 2px blue;
+h2{ color: #675C99;
     font-family: times new roman, arial;
-}
- 
-h3{
-    color: #ffbbbb;
-    text-shadow:0 0 2px blue;
-    font-family: times new roman, arial;
-}
- 
-p{
-    color: #00bbbb;
-    text-shadow:0 0 2px purple;
-    font-family: times new roman, arial;
-}
- 
-a:visited{
-    color: aqua;
-}
- 
-table{
-    background: yellow;
-    width: 630px;
-    height: 70px;
-    border:1px solid;
-}
+	text-decoration: underline;}
+	
+body{ background: linear-gradient(to right, #D5D6EA, #F5F5F5, #D5D6EA);
+		text-align:center;}
+	
+table  { background: #ECECF1;
+		margin-left: auto;
+		margin-right: auto;
+		width: 800px;
+		height: 70px;
+		border:1px solid;}
+		
+p { color: #433E56;
+		font-family: times new roman, arial;}
+		
+a:visited{ color: #5A5084;}	
